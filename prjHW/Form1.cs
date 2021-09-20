@@ -14,6 +14,7 @@ namespace prjHW
     {
         public Form1()
         {
+            dit is een code lijn
             InitializeComponent();
         }
     }
