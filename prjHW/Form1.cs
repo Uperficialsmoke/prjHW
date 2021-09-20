@@ -15,7 +15,7 @@ namespace prjHW
         public Form1()
         {
             InitializeComponent();
-            MessageBox.Show("hey stinky, open salami, incroyable");
+            MessageBox.Show("hey stinky");
         }
     }
 }
