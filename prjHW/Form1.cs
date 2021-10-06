@@ -16,6 +16,7 @@ namespace prjHW
         {
             InitializeComponent();
             MessageBox.Show("hey stinky");
+            MessageBox.Show("Yo dude");
         }
     }
 }
